@@ -1,0 +1,6 @@
+com\cumuluscycles\contacts\controller\HealthController.class
+com\cumuluscycles\contacts\service\ContactService.class
+com\cumuluscycles\contacts\controller\ContactController.class
+com\cumuluscycles\contacts\ContactsApplication.class
+com\cumuluscycles\contacts\model\Contact.class
+com\cumuluscycles\contacts\dao\ContactDAO.class
