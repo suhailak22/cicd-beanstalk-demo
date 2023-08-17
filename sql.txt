@@ -5,3 +5,5 @@ CREATE TABLE IF NOT EXISTS contact
     contact_name  VARCHAR(255) NOT NULL, 
     contact_email VARCHAR(255) NOT NULL,
     contact_cell  VARCHAR(12));
+
+insert into contact_db.contact values ( 1001, "sekar" , "sekarfeb@gmail.com" , "9894982451")
